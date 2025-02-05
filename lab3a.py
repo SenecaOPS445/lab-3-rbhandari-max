@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # return_text_value() function
-# Author ID: [your_seneca_id]
+# Author ID: rbhandari17
 
 def return_text_value():
     name = 'Terry'
